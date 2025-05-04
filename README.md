@@ -1,63 +1,44 @@
-# 👩‍💻 Ivonne– Junior DevOps & Cloud Engineer 👨‍💻
 
-Hallo! Ich bin Ivonne Franke, ich habe gerade meine Weiterbildung zur Junior DevOps & Cloud Engineer(in). 
--Täglich erarbeite ich neues für mein bereits vorhandenem Wissen in den Bereichen Cloud-Technologien
--DevOps-Praktiken und Automatisierung 
--da ich ein Mensch bin der nicht still steht /gerne dazulernt /sehr ehrgeizig ist
--GRUND: Ich baue gerne meine Fähigkeiten durch praxisorientierte Projekte aus.
+<!-- Profil-Header -->
+<h1 align="center" style="color:#98FF98;">Hi, ich bin Ivonne Franke!</h1>
+
+<p align="center">
+  <img src="./A_2D_digital_vector_graphic_infographic_displays_I.png" width="400" alt="Tech Stack von Ivonne Franke"/>
+</p>
+
+<!-- Tech Stack -->
+<h2 align="center" style="color:#98FF98;">🌍 Tech Stack Übersicht</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-Cloud-lightgreen?style=for-the-badge&logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-lightgreen?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-lightgreen?style=for-the-badge&logo=terraform" />
+  <img src="https://img.shields.io/badge/Ansible-Automatisierung-lightgreen?style=for-the-badge&logo=ansible" />
+  <br />
+  <img src="https://img.shields.io/badge/Docker-Container-lightgreen?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestrierung-lightgreen?style=for-the-badge&logo=kubernetes" />
+  <br />
+  <img src="https://img.shields.io/badge/Git-Versionskontrolle-lightgreen?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-Code-lightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Jenkins-CI/CD-lightgreen?style=for-the-badge&logo=jenkins" />
+  <br />
+  <img src="https://img.shields.io/badge/Bash-Scripting-lightgreen?style=for-the-badge&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/Python-Automatisierung-lightgreen?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/PowerShell-Scripting-lightgreen?style=for-the-badge&logo=powershell" />
+  <br />
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-lightgreen?style=for-the-badge&logo=prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-Dashboards-lightgreen?style=for-the-badge&logo=grafana" />
+  <br />
+  <img src="https://img.shields.io/badge/MySQL-Datenbank-lightgreen?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Datenbank-lightgreen?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-lightgreen?style=for-the-badge&logo=mongodb" />
+</p>
 
 ---
+
+<p align="center" style="color:#98FF98;">Mit Leidenschaft für Automatisierung, Infrastruktur und Open Source.</p>
 
 ## 🌍 Tech Stack
 
-### ☁️ Cloud & Infrastruktur
-- [Azure](https://azure.microsoft.com/)
-- [AWS](https://aws.amazon.com/)
-- [Terraform](https://www.terraform.io/)
-- [Ansible](https://www.ansible.com/)
 
-### 🐳 Container & Orchestrierung
-- [Docker](https://www.docker.com/)
-- [Kubernetes](https://kubernetes.io/)
 
-### ⚙️ DevOps & CI/CD
-- [Git](https://git-scm.com/)
-- [GitHub](https://github.com/)
-- [Jenkins](https://www.jenkins.io/)
-
-### 📜 Automatisierung & Scripting
-- [Bash](https://www.gnu.org/software/bash/)
-- [Python](https://www.python.org/)
-- [PowerShell](https://powershell.dev/)
-
-### 📊 Monitoring
-- [Prometheus](https://prometheus.io/)
-- [Grafana](https://grafana.com/)
-
-### 🗄️ Datenbanken
-- [MySQL](https://www.mysql.com/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [MongoDB](https://www.mongodb.com/)
-
----
-
-## 🚀 Projekte
-
-Hier findest du einige meiner Projekte, an denen ich gearbeitet habe:
-
-- [Projekt 1 Name](Link zu deinem GitHub-Projekt)
-- [Projekt 2 Name](Link zu deinem GitHub-Projekt)
-- [Projekt 3 Name](Link zu deinem GitHub-Projekt)
-
----
-
-## 📬 Kontakt
-
-Du kannst mich über folgende Kanäle erreichen:
-
-- [LinkedIn](Dein LinkedIn-Profil-Link)
-- [E-Mail](Deine E-Mail-Adresse)
-
----
-
-Danke, dass du mein Profil besucht hast! Ich freue mich darauf, mit der Community zu wachsen und neue Herausforderungen zu meistern. 💻🌱
